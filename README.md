@@ -1,2 +1,2 @@
-# payment-plan
+# payment plan - beginer project
 A simple page of choice of plan, practicing with display-flex
